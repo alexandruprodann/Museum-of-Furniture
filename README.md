@@ -8,4 +8,4 @@
 
 ### Links
 
-- Live Site URL: (https://alexprodann.github.io/Museum-of-Furniture/)
+- Live Site URL: (https://alexandruprodann.github.io/Museum-of-Furniture/)
